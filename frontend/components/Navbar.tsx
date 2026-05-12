@@ -163,3 +163,5 @@ export default function Navbar() {
     </>
   );
 }
+
+// test comment because the remote repository is not showing a git commit
